@@ -1,6 +1,6 @@
 # Example of Titanium project with ti.mocha
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)]
+![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)
 
 This repo is an example of the usage ti.mocha.
 TODO: Blog article
