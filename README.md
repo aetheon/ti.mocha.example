@@ -1,4 +1,4 @@
-# Example of Titanium project with ti.mocha
+# ti.mocha example
 
 ![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)
 
