@@ -9,12 +9,12 @@ TODO: Blog article
 
 On your terminal enter the following:
 
-``
+```
 
 # build
 ti build -p ios
 
-``
+```
 
 ## 2 - Check the console
 
