@@ -5,6 +5,15 @@
 This repo is an example of the usage ti.mocha.
 TODO: Blog article
 
+## 0 - Install
+
+```
+
+sudo npm install titanium -g
+ti sdk install 3.2.3.GA
+
+```
+
 ## 1 - Build
 
 On your terminal enter the following:
