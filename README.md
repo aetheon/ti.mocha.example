@@ -5,7 +5,7 @@
 This repo is an example of the usage ti.mocha.
 TODO: Blog article
 
-## 0 - Install
+## 1 - Install
 
 ```
 
@@ -14,7 +14,7 @@ ti sdk install 3.2.3.GA
 
 ```
 
-## 1 - Build
+## 2 - Run
 
 On your terminal enter the following:
 
@@ -25,7 +25,7 @@ ti build -p ios
 
 ```
 
-## 2 - Check the console
+## 3 - Check the console
 
 On the console you should find the report of the test execution.
 
