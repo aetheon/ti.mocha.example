@@ -5,7 +5,7 @@
 This repo is an example of the usage ti.mocha. 
 
 * [ti.mocha documentation](http://tonylukasavage.com/ti-mocha/)
-* [Divhide blog post](http://blog.divhide.com/2014/06/22/ti-mocha-example/)
+* [divhide blog post](http://blog.divhide.com/2014/06/22/ti-mocha-example/)
 
 ## 1 - Install
 
