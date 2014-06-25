@@ -2,8 +2,10 @@
 
 ![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)
 
-This repo is an example of the usage ti.mocha.
-TODO: Blog article
+This repo is an example of the usage ti.mocha. 
+
+* [ti.mocha documentation](http://tonylukasavage.com/ti-mocha/).
+* [Blog post](http://blog.divhide.com/2014/06/22/ti-mocha-example/)
 
 ## 1 - Install
 
